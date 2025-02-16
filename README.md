@@ -1,4 +1,4 @@
-## Hi there, I'm Meghanjana Samanta! 👋
+## Hi there, I'm Meghanjana Samanta! 👋🚀
 ## About Me 🚀
 As a Full Stack Python Developer, I specialize in building efficient and scalable web applications. I love transforming ideas into functional solutions through coding!  
 Currently, I'm enhancing my expertise in Python, Django, MySQL, and Web Development.
