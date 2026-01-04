@@ -63,15 +63,12 @@ Currently, I am combining my academic studies in **AI & ML** with practical **We
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meghanjanaSamanta005&show_icons=true&theme=radical&hide_border=true" alt="Meghanjana's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghanjanaSamanta005&theme=radical" alt="GitHub Stats" />
 
-<br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meghanjanaSamanta005&theme=radical" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanjanaSamanta005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanjanaSamanta005&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanjanaSamanta005&theme=radical" alt="GitHub Streak" />
 
 </div>
 
