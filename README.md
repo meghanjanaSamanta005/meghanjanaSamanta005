@@ -1,39 +1,82 @@
-## Hi there, I'm Meghanjana Samanta! 👋🚀
-## About Me 🚀
-As a Full Stack Python Developer, I specialize in building efficient and scalable web applications. I love transforming ideas into functional solutions through coding!  
-Currently, I'm enhancing my expertise in Python, Django, MySQL, and Web Development.
+<div align="center">
+  <h1>Hi there, I'm Meghanjana Samanta! 👋</h1>
 
-- 🔭 Currently working on: Dynamic web applications for an Online Learning Platfrom
-- 🌱 Currently learning: Advanced Django, and Data Analytics
-- 👯 Looking to collaborate on: Open-source Python & Django projects
-- 💬 Ask me about: Python, Backend Development, Frontend Development, Full Stack Development, APIs, and Databases
-- 📫 How to reach me: Email:meghanjanasamantashau01@gmail.com|Linkedin:https://www.linkedin.com/in/meghanjana-samanta-shau
+  <h3>
+    🚀 Software Engineer | 🤖 AI Research Enthusiast
+  </h3>
+
+  <p>
+    <em>Currently pursuing B.Tech in CSE (Artificial Intelligence and Machine Learning)</em>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/meghanjana-samanta-shau">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:meghanjanasamantashau01@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
+    </a>
+  </p>
+</div>
+
 ---
-## 🚀 Tech Stack  
 
-### 💻Programming Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 👩‍💻 About Me
 
-### ⚙️Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+As a **Full Stack Python Developer**, I specialize in building efficient and scalable web applications. I love transforming ideas into functional solutions through coding!
+
+Currently, I am combining my academic studies in **AI & ML** with practical **Web Development** to build smarter applications.
+
+- 🎓 **Education:** Currently pursuing **B.Tech in CSE (Artificial Intelligence and Machine Learning)**.
+- 🔭 **Currently working on:** Dynamic web applications and robust API-based backend projects.
+- 🌱 **Currently learning:** Advanced Django and Data Analytics.
+- 👯 **Looking to collaborate on:** Open-source Python & Django projects.
+- 💬 **Ask me about:** Python, Backend (Django), Frontend, APIs, and Databases.
 
 ---
-## 📊 GitHub Stats
+
+### 🚀 Tech Stack
 
 <div align="center">
-  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanjanaSamanta005&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanjanaSamanta005&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanjanaSamanta005&theme=radical)
+
+**Languages & Frameworks** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+
+<br>
+
+**Databases & Tools** <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
 ---
 
-## 📬 Let's Connect!
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+<div align="center">
 
-⭐If you find my work helpful, feel free to star my repositories!⭐
+<img src="https://github-readme-stats.vercel.app/api?username=meghanjanaSamanta005&show_icons=true&theme=radical&hide_border=true" alt="Meghanjana's GitHub Stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanjanaSamanta005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanjanaSamanta005&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  ⭐ <b>If you find my work helpful, feel free to star my repositories!</b> ⭐
+</div>
